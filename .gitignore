@@ -215,4 +215,17 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.py
+*.tmp
+*.temp
+*.swp
+
+# Windows
+Thumbs.db
+Desktop.ini
 .streamlit/secrets.toml
