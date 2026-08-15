@@ -1,0 +1,11 @@
+Variation,process_step,time_spent_seconds,time_spent_minutes
+Control,confirm,171.9343612334802,2.87
+Control,start,62.94183168316832,1.05
+Control,step_1,50.26967150496562,0.84
+Control,step_2,91.61770846125506,1.53
+Control,step_3,135.5675215338946,2.26
+Test,confirm,248.06053049195194,4.13
+Test,start,60.56109799919202,1.01
+Test,step_1,60.60947409777179,1.01
+Test,step_2,88.61250632057981,1.48
+Test,step_3,128.91652152276686,2.15
