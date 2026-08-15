@@ -398,6 +398,15 @@ The A/B test visualization compares:
 - **Control: 65.59%**
 - **Test: 69.29%**
 
+## 📊 Visualizations
+
+### A/B Test Conversion Rate
+
+![Vanguard A/B Test Conversion Rate](images/vanguard_ab_test_conversion_rate.png)
+
+### Customer Journey Funnel
+
+![Vanguard Customer Journey Funnel](images/vanguard_customer_journey_funnel.png)
 ---
 
 ## 🛠️ Tools & Technologies
